@@ -2,7 +2,9 @@
 A step-by-step workflow for creating professional documentation with AI assistance, designed for various learning and technical contexts.
 
 Author: Angelo 
+
 Date: 25 July 2025 
+
 Location: Vryburg, South Africa 
 
 Purpose 
