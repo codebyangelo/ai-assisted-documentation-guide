@@ -46,7 +46,7 @@ The interaction begins with a prompt designed to clearly instruct the assistant 
 
 **Standard Setup Prompt:** 
 
-“I will have you take notes for me to document what I share and my thoughts about it for a report. Internalize the information until I ask for you to generate a full report.” 
+``` “I will have you take notes for me to document what I share and my thoughts about it for a report. Internalize the information until I ask for you to generate a full report.” ```
 
 This can be customized to reflect tone, style, formatting preferences, or specific session goals. The assistant should not summarize or respond during the note-taking period, unless asked to. 
 
