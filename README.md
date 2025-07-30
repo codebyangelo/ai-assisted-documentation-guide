@@ -1,17 +1,18 @@
-# ai-assisted-documentation-guide
+# ai-assisted-documentation-guide-2025
+
 A step-by-step workflow for creating professional documentation with AI assistance, designed for various learning and technical contexts.
 
-Author: Angelo 
+**Author:** Angelo 
 
-Date: 25 July 2025 
+**Date:** 25 July 2025 
 
-Location: Vryburg, South Africa 
+**Location:** Vryburg, South Africa 
 
-Purpose 
+### Purpose 
 
 This document outlines the exact step-by-step workflow I use to document, structure, and finalize technical or learning-related information by collaborating with an AI assistant. The process is fully portable across devices, platforms, and contexts. It’s built to preserve authorship, ensure editorial integrity, and produce a final report that’s structurally sound, regionally localized, and stylistically consistent with my documentation standards. 
 
-1. Context and Applicability 
+### 1. Context and Applicability 
 
 This process was demonstrated live during this session. It models a versatile approach that can be used across various documentation scenarios: 
 
@@ -23,12 +24,12 @@ This process was demonstrated live during this session. It models a versatile ap
 
 It is a universally applicable method, with no restriction to format or platform. The value is in the method, not in any specific tool or paid product. 
 
-2. Platform-Agnostic Flexibility 
+### 2. Platform-Agnostic Flexibility 
 
 This workflow can be executed using any AI chatbot, including those on free tiers. The assistant simply needs to support note-taking, memory, and prompt-based output. My own workflow moves fluidly between a laptop and mobile phone, depending on availability and context. 
 Source material could be digital (videos, PDFs, websites) or physical (books, notebooks, in-person sessions). Documentation can be captured digitally or manually, depending on the individual’s preferred method. 
 
-3. Mindset Before Starting 
+### 3. Mindset Before Starting 
 
 Before activating the AI partner, I start with intentional mental framing: 
 
@@ -39,22 +40,23 @@ Before activating the AI partner, I start with intentional mental framing:
 
 This approach avoids cognitive overload while prioritizing authenticity and relevance. 
 
-4. Initiating the Session With the AI Assistant 
+### 4. Initiating the Session With the AI Assistant 
 
 The interaction begins with a prompt designed to clearly instruct the assistant to receive, hold, and later synthesize all insights I share. 
 
-Standard Setup Prompt: 
+**Standard Setup Prompt:** 
+
 “I will have you take notes for me to document what I share and my thoughts about it for a report. Internalize the information until I ask for you to generate a full report.” 
 
 This can be customized to reflect tone, style, formatting preferences, or specific session goals. The assistant should not summarize or respond during the note-taking period, unless asked to. 
 
-5. Iterative Documentation During Learning 
+### 5. Iterative Documentation During Learning 
 
 While consuming the content (e.g. video, webinar, study material, lab session), I periodically share what I understand in real time. This is done step-by-step, allowing the AI assistant to internalize each segment. 
 There is no rush to summarize. Only continuous intake until the material is fully shared. 
 Once the session concludes and all reflections are captured, I signal the assistant to generate the full report based on everything documented during the process. 
 
-6. Evaluating the AI-Generated Report 
+### 6. Evaluating the AI-Generated Report 
 
 After the assistant produces the draft report, I perform a detailed review. At this stage, I focus on: 
 
@@ -64,7 +66,7 @@ After the assistant produces the draft report, I perform a detailed review. At t
 
 This step restores control over expression and authorship. 
 
-7. Formatting Corrections and Technical Edits 
+### 7. Formatting Corrections and Technical Edits 
 
 In Google Docs or another text editor, I begin the post-processing phase. This includes: 
 
@@ -78,17 +80,17 @@ In Google Docs or another text editor, I begin the post-processing phase. This i
 
 These edits eliminate typical AI syntax patterns and reinforce professional readability. 
 
-8. Final Export and Integrity Preservation
+### 8. Final Export and Integrity Preservation
    
 Once the document is fully revised, I export it as a PDF. This choice is intentional. It locks in formatting, prevents easy editing, and ensures version integrity when shared or archived. 
 
 This PDF becomes a professional artifact suitable for inclusion in my portfolio or distribution to collaborators and recruiters. 
 
-10. Optional Summary for Public Documentation 
+### 10. Optional Summary for Public Documentation 
 
 After the final report is complete, I sometimes request a summarized version from the assistant for use on platforms like LinkedIn or other professional networks. 
 
-This post is: 
+**This post is:** 
 
 - Concise and audience-appropriate 
 - Calibrated for tone, visibility, and public clarity 
@@ -97,11 +99,11 @@ This post is:
 
 It is revised manually before posting to ensure it reflects my communication style and avoids automated phrasing. 
 
-10. Session-Based Validation of the Workflow 
+### 10. Session-Based Validation of the Workflow 
 
 The entire method outlined above was not just described. It was performed in a session to create this report. Every behavior listed was demonstrated through live prompting, feedback, correction, evaluation, and editorial shaping. 
 
-This session shows that the process: 
+**This session shows that the process:** 
 
 - Is iterative and recursive, not passive 
 - Can course-correct AI output in real time 
